@@ -1,6 +1,6 @@
 # Hacktoberfest
 # HckIT
 
-hactoberfest 2022
+thank you!
 
 
