@@ -1,5 +1,6 @@
 # Hacktoberfest
 # HckIT
 
-
-pls accept pr
+hactoberfest 2022
+please accept the pr
+thank you!
