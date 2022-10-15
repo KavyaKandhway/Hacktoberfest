@@ -2,4 +2,4 @@
 # HckIT
 2022
 
-hacktober
+please accept pr
