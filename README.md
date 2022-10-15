@@ -1,6 +1,6 @@
 # Hacktoberfest
 # HckIT
 
-thank you!
+hi
 
 
